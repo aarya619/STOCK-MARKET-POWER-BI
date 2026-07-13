@@ -222,7 +222,7 @@ This dashboard enables users to monitor stock performance, evaluate market trend
 
 ---
 
-# 👨‍💻 Author
+# 👩🏻‍💻 Author
 
 ## **AARYA KOTHE**
 EMAIL: aaryakothe2@gmail.com
